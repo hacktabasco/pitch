@@ -18,7 +18,8 @@ In 3 minutes you must be able to cover the following:
 
 ##Partes a cubrir
 
-Company - Tell us the name of your company?
+###Company
+Tell us the name of your company
 
 Problem - Briefly outline what problem you are solving for the customer and what is their pain in terms of time or money?
 
