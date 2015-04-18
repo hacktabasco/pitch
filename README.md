@@ -1,6 +1,6 @@
 #Creado un deck para presentar a inversionistas
 
-##Tipos
+##Tipos de tiempo.
 The 5, 3, 1 minute
 
 - Experimentado
