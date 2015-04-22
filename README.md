@@ -1,25 +1,31 @@
 #Creado un deck para presentar a inversionistas
 
 ##Tipos de tiempo.
-The 5, 3, 1 minute
+De 5, 3, 1 minutos
 
-- Experimentado
-If you are dealing with high end VC, which is my confort zone they expect a confident 1 minute pitch.
+- de 5 
+Es recomendable si la persona no conoce del producto y para el mercado es nuevo.
 
-- Mayoria
-But for everyone else this is the pitch template for the 3 to 5 minute
+- de 3 y de 1
+Es cuando la persona te conoce y conoce la industria a la cual estas ofreciendo el producto.
 
 
 ##Partes a cubrir
 
-###Company
+###Compañia
+El nombre de la compañia y datos generales.
+
 Tell us the name of your company
 
 ###Problem
+Describe el problema en breve y la solución que estas ofreciendo, y cuanto les cuesta ese problema en terminos de dinero y tiempo.
+
 Briefly outline what problem you are solving for the customer and what is their pain in terms of time or money?
 
 ###Customer
 Who is it a problem for i.e. who is your customer?
+
+
 
 ###Solution
 What is your solution i.e. how are you solving the problem for them - What will your business do or make that is new, interesting or different or the % or actual saving relating to the problem or the pain?
